@@ -20,9 +20,9 @@ h3 {
 	font-family: helvetica;
 	color:white;
 }
-ul {
+ul li {
 	text-align:center;
 }
-ol{
+ol li{
 	text-align: center;
 }
