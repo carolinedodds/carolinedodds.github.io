@@ -2,12 +2,21 @@ body {
 	background:url("http://hqwallpapersplus.com/wp-content/uploads/2013/11/Beautiful-Wallpaper-Backgrounds-5.jpg");
 	background-size: cover;
     background-position: center;
-	color:white;
+	color:000033;
 	text-align: center;
 	font-family: helvetica;
+	font-size: 22px;
 }
 
 h1 {
+	font-family: helvetica;
+	color:white;
+}
+h2 {
+	font-family: helvetica;
+	color:white;
+}
+h3 {
 	font-family: helvetica;
 	color:white;
 }
