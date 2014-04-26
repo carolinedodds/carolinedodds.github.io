@@ -1,5 +1,10 @@
 body {
-	background:red;
+	background:url("http://hqwallpapersplus.com/wp-content/uploads/2013/11/Beautiful-Wallpaper-Backgrounds-5.jpg");
+	background-size: cover;
+    background-position: center;
+	color:white;
+	text-align: center;
+	font-family: helvetica;
 }
 
 h1 {
